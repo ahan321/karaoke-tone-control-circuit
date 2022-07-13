@@ -19,4 +19,4 @@ inverted-summing amplifier, while the kareoke mode is achieved using a subtracti
 The inputs to this block is from a 3.5mm audio jack, which consists of the left, right, and
 ground channel. This block outputs to the second block.
 #### Schematic
-
+![](res/Block%1.png)
